@@ -15,7 +15,7 @@ Personal portfolio website showcasing my projects, skills, education, and achiev
 - CSS
 
 ## Live Website
- [Visit Portfolio](Live Website: https://shrutikasalunke.github.io/Shrutika-Portfolio/)
+ [Visit Portfolio](https://shrutikasalunke.github.io/Shrutika-Portfolio/)
 
 ## Author
 Shrutika Salunke
